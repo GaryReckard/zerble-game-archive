@@ -20,7 +20,8 @@
         "assets/main-BUnvmLFl.js": "386a43dae5d83f25dfe0e28cef134cc8e79e64abf7715697a47ecdee3c0c138d",
         "index.html": "e89c54baf869d24da502e0737c5bbabface0d0e51dfb1a70ef792da410e2345e"
       },
-      "checksum": "caa715b6ec75f88d8f9890815d7d1cd02d1ae7e363982ee23694b2d5dccf5a9e"
+      "checksum": "caa715b6ec75f88d8f9890815d7d1cd02d1ae7e363982ee23694b2d5dccf5a9e",
+      "milestoneTag": "time-machine/2026-05-23"
     },
     {
       "schema": 1,
@@ -46,6 +47,7 @@
         "index.html": "fb72af1bc2f580a291318d306473e29833901b75ec78a2e4ed40cdd93a317224"
       },
       "checksum": "c350b3eee68f0399ca3556b68b8add98b3371de5180d29499b56762fe815955b",
+      "milestoneTag": "time-machine/2026-05-28",
       "changelogURL": "https://github.com/GaryReckard/zerble-at-the-festival/blob/f0c763a5ad5c141860f84a075fb289b50194d401/CHANGELOG.md"
     },
     {
@@ -74,6 +76,7 @@
         "index.html": "89cddb8e30f807391a28d9c9c3488e58d2101bc4ee2030f4c210d44a789ba2d1"
       },
       "checksum": "52db5e322b7c0382f75ea74c183d1f911757d9947e9dc846e8a5fdadb8f34a93",
+      "milestoneTag": "time-machine/2026-06-04",
       "changelogURL": "https://github.com/GaryReckard/zerble-at-the-festival/blob/5a73bb38d8207b8ce8847b2b11eda649ad054f58/CHANGELOG.md"
     },
     {
@@ -115,6 +118,7 @@
         "zerble-festival-architecture.png": "e2082441fe049681516768f3decdcb12be215ac021d091bec92b2a42079cef38"
       },
       "checksum": "bf3b2f7292f5646fbb5290dfc968d97ab311855800b67dc7737267651e616462",
+      "milestoneTag": "time-machine/2026-06-22",
       "changelogURL": "https://github.com/GaryReckard/zerble-at-the-festival/blob/f7e7bc97b932bdf07832c6c92f7fb3d25b9cc791/CHANGELOG.md"
     },
     {
@@ -158,6 +162,7 @@
         "zerble-festival-architecture.png": "e2082441fe049681516768f3decdcb12be215ac021d091bec92b2a42079cef38"
       },
       "checksum": "a9514bada887dae36948e73ba4b22834d0cebab75d9718bffbef58e3e24e3a93",
+      "milestoneTag": "time-machine/2026-08-31",
       "changelogURL": "https://github.com/GaryReckard/zerble-at-the-festival/blob/d680786866b165086d2fd8abae1bc7a809006a4f/CHANGELOG.md"
     },
     {
@@ -216,6 +221,7 @@
         "zerble-festival-architecture.png": "e2082441fe049681516768f3decdcb12be215ac021d091bec92b2a42079cef38"
       },
       "checksum": "1ae9817d45649ef5c0a0f6250d47f9133699273d6060bb70722429b3bf390bb4",
+      "milestoneTag": "time-machine/2026-10-16",
       "changelogURL": "https://github.com/GaryReckard/zerble-at-the-festival/blob/8a15434656b282fadf0b7a334c40f54ee55f2e26/CHANGELOG.md"
     },
     {
@@ -274,6 +280,7 @@
         "zerble-festival-architecture.png": "e2082441fe049681516768f3decdcb12be215ac021d091bec92b2a42079cef38"
       },
       "checksum": "69765c3658522a2c27f48b2879c85c85b42827d962be635e8ef38efae8d61073",
+      "milestoneTag": "time-machine/2026-10-25",
       "changelogURL": "https://github.com/GaryReckard/zerble-at-the-festival/blob/9eaf2e5d73419f7c926c11ab06882f007b2bf1e4/CHANGELOG.md"
     },
     {
@@ -337,6 +344,7 @@
         "zerble-festival-architecture.png": "e2082441fe049681516768f3decdcb12be215ac021d091bec92b2a42079cef38"
       },
       "checksum": "3f2edf2d6df8985b6e18d3e0a2b2401f348d5958507c62cedf6f54398b69e091",
+      "milestoneTag": "time-machine/2026-10-30",
       "changelogURL": "https://github.com/GaryReckard/zerble-at-the-festival/blob/5ef3df22e4345e71e09fe9bb01da9e8261e82801/CHANGELOG.md"
     },
     {
@@ -414,6 +422,7 @@
         "zerble-festival-architecture.png": "e2082441fe049681516768f3decdcb12be215ac021d091bec92b2a42079cef38"
       },
       "checksum": "66cb36e3c3169824119cc73c381b3152403c2e282a0fa4d51c9873d93de5c3f2",
+      "milestoneTag": "time-machine/2026-11-02",
       "changelogURL": "https://github.com/GaryReckard/zerble-at-the-festival/blob/7e7fd38eef4667e67802191a9df3acd43697ebfa/CHANGELOG.md"
     },
     {
@@ -496,6 +505,7 @@
         "zerble-festival-architecture.png": "e2082441fe049681516768f3decdcb12be215ac021d091bec92b2a42079cef38"
       },
       "checksum": "61a31efd5e7b4401097ef178726e699356926dba252eee178fcccdfd6cf7b4f0",
+      "milestoneTag": "time-machine/2026-11-11",
       "changelogURL": "https://github.com/GaryReckard/zerble-at-the-festival/blob/c8ce9a199221f55a704fc0da7ce98a805a8f3a83/CHANGELOG.md"
     },
     {
@@ -593,6 +603,7 @@
         "zerble-festival-architecture.png": "e2082441fe049681516768f3decdcb12be215ac021d091bec92b2a42079cef38"
       },
       "checksum": "465d8147e97543859d401757a1a2c9e9c4fbb6ab077c8ee85305bb60ab97305d",
+      "milestoneTag": "time-machine/2026-11-15",
       "changelogURL": "https://github.com/GaryReckard/zerble-at-the-festival/blob/93228887a6d0c615661fae170741004fa0715522/CHANGELOG.md"
     },
     {
@@ -692,6 +703,7 @@
         "zerble-festival-architecture.png": "e2082441fe049681516768f3decdcb12be215ac021d091bec92b2a42079cef38"
       },
       "checksum": "ef1401ca734793a7663c7826230bce4e098e85f872371b9a873757bf8892cdc8",
+      "milestoneTag": "time-machine/2026-11-16",
       "changelogURL": "https://github.com/GaryReckard/zerble-at-the-festival/blob/380cf22f7654b222c4974451f2a80957a7429073/CHANGELOG.md"
     }
   ]
