@@ -1,0 +1,25 @@
+{
+  "schema": 1,
+  "id": "f0c763a5ad5c141860f84a075fb289b50194d401-11d1fbcbd442",
+  "source": "f0c763a5ad5c141860f84a075fb289b50194d401",
+  "adapter": "11d1fbcbd442be7874bbca7973eca320507bf25e76baacfc943d0be818ef739c",
+  "date": "2026-05-28",
+  "sourceURL": "https://github.com/GaryReckard/zerble-at-the-festival/commit/f0c763a5ad5c141860f84a075fb289b50194d401",
+  "declaredDependencies": {},
+  "runtimeDependencies": {
+    "three": "0.160.0",
+    "rapier": null
+  },
+  "storage": "memory",
+  "files": {
+    "assets/index-DC7mriiU.css": "ffd8e58e41ea9ac3b8f3955004630f610eee59470b0de87d7a96f9186931fffc",
+    "assets/index-hGsKGM5t.js": "0ccc862b98a8544f8321c79254ff7e668622828bfff8ff8f99dcdd7fd9cc791b",
+    "assets/main-AvN7_06T.js": "90fdb02195490aa25bbd1a3fc906f3c0a1bec2fde38104db36b09dd27032fad3",
+    "assets/music/manifest.json": "519f29c01aabdcd28776410f893ab6df5b2b76ffb79cfc05fa6b5ef558bccaa6",
+    "assets/music/music-1.mid": "203c94b7b3ee78057437e00bccf8728c04d0c8123d0d989dcffdde2b36da09f2",
+    "assets/music/music-2.mid": "7dbd218c1207007da2301f4d4276a8fd1ae7dc15022cb4f4aa2972b74d7a8834",
+    "assets/zerble.png": "a70c9803edadee06d33dac2da4861e44d971457d55084119ec2a56a37670891e",
+    "index.html": "fb72af1bc2f580a291318d306473e29833901b75ec78a2e4ed40cdd93a317224"
+  },
+  "checksum": "c350b3eee68f0399ca3556b68b8add98b3371de5180d29499b56762fe815955b"
+}

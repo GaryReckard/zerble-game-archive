@@ -1,0 +1,2 @@
+const __vite__mapDeps=(i,m=__vite__mapDeps,d=(m.f||(m.f=["./main-CqahgLCf.js","./main-Bi_AtTx_.css"])))=>i.map(i=>d[i]);
+import{t as e}from"./preload-helper-CRzLMJPS.js";var t=location.hostname,n=/^(localhost|127\.0\.0\.1|0\.0\.0\.0)$/.test(t)||t.endsWith(`.local`)||/^(10\.|192\.168\.|172\.(1[6-9]|2\d|3[01])\.)/.test(t)||t.includes(`claude-preview`)||t.includes(`happycog`)?Math.min(1e4,Math.max(0,Number(new URLSearchParams(location.search).get(`bootDelay`))||0)):0,r=()=>e(()=>import(`./main-CqahgLCf.js`),__vite__mapDeps([0,1]),import.meta.url);n?setTimeout(r,n):r();

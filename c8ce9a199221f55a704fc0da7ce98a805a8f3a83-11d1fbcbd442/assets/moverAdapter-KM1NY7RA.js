@@ -1,0 +1,1 @@
+export{i as createLandscapeMoverAdapter}from"./moverAdapter-DzSQM1gy.js";

@@ -1,0 +1,21 @@
+{
+  "schema": 1,
+  "id": "7eb3437edf596fa2679e80c190f6bf38cda6ab1f-11d1fbcbd442",
+  "source": "7eb3437edf596fa2679e80c190f6bf38cda6ab1f",
+  "adapter": "11d1fbcbd442be7874bbca7973eca320507bf25e76baacfc943d0be818ef739c",
+  "date": "2026-05-23",
+  "sourceURL": "https://github.com/GaryReckard/zerble-at-the-festival/commit/7eb3437edf596fa2679e80c190f6bf38cda6ab1f",
+  "declaredDependencies": {},
+  "runtimeDependencies": {
+    "three": "0.160.0",
+    "rapier": null
+  },
+  "storage": "memory",
+  "files": {
+    "assets/index-C90q7Nr6.css": "ba55dbc90217977eed3fb2eede6c626bd9165d62f5d18032c98140ca0b82dd04",
+    "assets/index-CYahECKi.js": "3bad636405d605d8f6277e7fea0741e8923f680f364f308e40cfad9b06e45abf",
+    "assets/main-BUnvmLFl.js": "386a43dae5d83f25dfe0e28cef134cc8e79e64abf7715697a47ecdee3c0c138d",
+    "index.html": "e89c54baf869d24da502e0737c5bbabface0d0e51dfb1a70ef792da410e2345e"
+  },
+  "checksum": "caa715b6ec75f88d8f9890815d7d1cd02d1ae7e363982ee23694b2d5dccf5a9e"
+}

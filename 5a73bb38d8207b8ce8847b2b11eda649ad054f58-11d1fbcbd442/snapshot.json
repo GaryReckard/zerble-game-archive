@@ -1,0 +1,27 @@
+{
+  "schema": 1,
+  "id": "5a73bb38d8207b8ce8847b2b11eda649ad054f58-11d1fbcbd442",
+  "source": "5a73bb38d8207b8ce8847b2b11eda649ad054f58",
+  "adapter": "11d1fbcbd442be7874bbca7973eca320507bf25e76baacfc943d0be818ef739c",
+  "date": "2026-06-04",
+  "sourceURL": "https://github.com/GaryReckard/zerble-at-the-festival/commit/5a73bb38d8207b8ce8847b2b11eda649ad054f58",
+  "declaredDependencies": {},
+  "runtimeDependencies": {
+    "three": "0.160.0",
+    "rapier": null
+  },
+  "storage": "memory",
+  "files": {
+    "assets/index-BI5CMzlT.css": "125f2468755c0203588ee1f337e34d4aa9fbacd10ca7477acbae813df026ee0e",
+    "assets/index-Bm9a98H_.js": "f047a2fd88d08291344e07f9ca9d5fa16e99806699f64eef991c336ac706e8c2",
+    "assets/main-CAXD4d0I.js": "a920cec26e2198a3f4514a1a00c88042b723e69dc0a1c5f2bab6f76efd5ccb30",
+    "assets/music/manifest.json": "aec9d0ccad56fc9a61ee686c96e7257e0fd648399bf85e91bbfab8d185b777c3",
+    "assets/music/music-1.mid": "203c94b7b3ee78057437e00bccf8728c04d0c8123d0d989dcffdde2b36da09f2",
+    "assets/music/music-2.mid": "7dbd218c1207007da2301f4d4276a8fd1ae7dc15022cb4f4aa2972b74d7a8834",
+    "assets/music/toto-africa-midi.mid": "bdd32d11287487727e888f21e003da660cd613eb15b3477f941821ad63c668ac",
+    "assets/zerble-BVhueA9z.png": "84d3cfb56034b86b61fb1604b591f0eba7f50a1dab8afee35510e7e59df7af58",
+    "assets/zerble.png": "84d3cfb56034b86b61fb1604b591f0eba7f50a1dab8afee35510e7e59df7af58",
+    "index.html": "89cddb8e30f807391a28d9c9c3488e58d2101bc4ee2030f4c210d44a789ba2d1"
+  },
+  "checksum": "52db5e322b7c0382f75ea74c183d1f911757d9947e9dc846e8a5fdadb8f34a93"
+}

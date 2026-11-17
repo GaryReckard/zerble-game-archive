@@ -1,0 +1,1 @@
+export{i as createLandscapeMoverAdapter}from"./moverAdapter-UwA0Blia.js";

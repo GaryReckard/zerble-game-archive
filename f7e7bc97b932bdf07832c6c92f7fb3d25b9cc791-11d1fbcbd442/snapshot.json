@@ -1,0 +1,40 @@
+{
+  "schema": 1,
+  "id": "f7e7bc97b932bdf07832c6c92f7fb3d25b9cc791-11d1fbcbd442",
+  "source": "f7e7bc97b932bdf07832c6c92f7fb3d25b9cc791",
+  "adapter": "11d1fbcbd442be7874bbca7973eca320507bf25e76baacfc943d0be818ef739c",
+  "date": "2026-06-22",
+  "sourceURL": "https://github.com/GaryReckard/zerble-at-the-festival/commit/f7e7bc97b932bdf07832c6c92f7fb3d25b9cc791",
+  "declaredDependencies": {
+    "headroom-ai": "^0.22.4"
+  },
+  "runtimeDependencies": {
+    "three": "0.160.0",
+    "rapier": null
+  },
+  "storage": "memory",
+  "files": {
+    "apple-touch-icon.png": "a89a6f8b08e835521b7b06ae0f2f7c79624b6666e71595c8af714474ae94767e",
+    "assets/apple-touch-icon-BQhTj2-O.png": "a89a6f8b08e835521b7b06ae0f2f7c79624b6666e71595c8af714474ae94767e",
+    "assets/favicon-96x96-CiQix8YV.png": "3a7334d2eb771e1fe8c982e7e8de7105c4e65264d3efb1ea585964cfae200530",
+    "assets/favicon-B4CsU2Oo.ico": "375d22e00a0196f3ae2c39ffed3e95418b3a50fdebe19a724aabdd104d37c430",
+    "assets/favicon-CPTTbEXi.svg": "fe1d46a452f33002cd04be63869a560284105f436e570362c5846bff07e3ba1f",
+    "assets/index-B0XDfELk.js": "cb72817ad2ba3239be7cd04802aac8709a713fb80c6faeb08d4426e8c3ed24cc",
+    "assets/index-DGgk6cDQ.css": "e38f17da80fc3b552a6751f88944eb13df2d1a7f53e5f05d28a6bc17fd62ad5b",
+    "assets/main-B_xhX96q.js": "f1c7b3401323dc2f723a6b4800ca50dfc7f049c8b2b5c4fb3e2520df7727aa8e",
+    "assets/music/manifest.json": "aec9d0ccad56fc9a61ee686c96e7257e0fd648399bf85e91bbfab8d185b777c3",
+    "assets/music/music-1.mid": "203c94b7b3ee78057437e00bccf8728c04d0c8123d0d989dcffdde2b36da09f2",
+    "assets/music/music-2.mid": "7dbd218c1207007da2301f4d4276a8fd1ae7dc15022cb4f4aa2972b74d7a8834",
+    "assets/music/toto-africa-midi.mid": "bdd32d11287487727e888f21e003da660cd613eb15b3477f941821ad63c668ac",
+    "assets/zerble-BVhueA9z.png": "84d3cfb56034b86b61fb1604b591f0eba7f50a1dab8afee35510e7e59df7af58",
+    "assets/zerble.png": "84d3cfb56034b86b61fb1604b591f0eba7f50a1dab8afee35510e7e59df7af58",
+    "favicon-96x96.png": "3a7334d2eb771e1fe8c982e7e8de7105c4e65264d3efb1ea585964cfae200530",
+    "favicon.ico": "375d22e00a0196f3ae2c39ffed3e95418b3a50fdebe19a724aabdd104d37c430",
+    "favicon.svg": "fe1d46a452f33002cd04be63869a560284105f436e570362c5846bff07e3ba1f",
+    "index.html": "852e74246ed85d378610ea5674070708ff774289b99959bd1912b013b7e2750c",
+    "web-app-manifest-192x192.png": "e74139e13b7033f5cd89092a51c818de3b62f78499a9f8dca72b18a6f86f246f",
+    "web-app-manifest-512x512.png": "8321898b4ba58cc6760d630ecf4179f315c2739af3de9c1406f998ab1f53b6b6",
+    "zerble-festival-architecture.png": "e2082441fe049681516768f3decdcb12be215ac021d091bec92b2a42079cef38"
+  },
+  "checksum": "bf3b2f7292f5646fbb5290dfc968d97ab311855800b67dc7737267651e616462"
+}
